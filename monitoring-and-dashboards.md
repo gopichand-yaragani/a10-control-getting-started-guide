@@ -6,7 +6,7 @@ Monitoring helps users track performance, manage alerts, and monitor activities 
 
 #### Dashboard
 
-The dashboard displays key information like network status, certificate health, and microservices activity, CPU, memory, and storage usage.
+The dashboard displays key information like network status, certificate health, microservices activity, CPU, memory, and storage usage.
 
 * **System Status**\
   This page helps users track CPU utilization, memory, and disk space.\

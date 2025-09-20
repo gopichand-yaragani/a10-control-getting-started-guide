@@ -1,35 +1,19 @@
 # Initial Setup
 
-This section provides the key prerequisites and installation steps to assist you get started with the A10 Control platform effectively.
+This section provides the key prerequisites and installation steps to help you get started with the A10 Control platform effectively.
 
 ### Prerequisites
 
-**Deployment Mode** \
-A10 Control supports installation on large scale and small scale environments.
+Before you install the A10 Control platform, verify that the following requirements are met:
 
-* A10 Control Lite (small-scale)
-* A10 Control Standard (large-scale)
-
-**Hypervisor Compatibility**
-
-* VMware ESXi 8.0 U2 or higher
-* KVM (Red Hat 9.3 or higher)
-* vCenter or vSphere Host client access required&#x20;
-
-**Time Synchronization**
-
-* Enable Network Time Protocol (NTP) on the hypervisor
-* Ensure accurate and synchronized system time&#x20;
-
-**System Sizing**
-
-* CPU, RAM, and disk capacity based on deployment scale
-* Only IPv4 supported in version 1.0.0&#x20;
-
-**Network Configuration**
-
-* Assign IP address, subnet prefix, gateway, and DNS for each interface
-* Configure floating IP for multi-node or multi-interface setups
+* Choose the required deployment mode as A10 Control Lite (small-scale) or A10 Control Standard (large-scale)
+* Enable the Network Time Protocol (NTP) on the hypervisor for time synchronization.
+* Verify the following supported Hypervisor Compatibility:
+  * VMware ESXi 8.0 U2 or higher
+  * KVM (Red Hat 9.3 or higher)
+  * vCenter or vSphere Host client access required&#x20;
+* Verify the system requirements such as CPU, RAM, and disk capacity based on for the deployment scale.
+* Verify network configuration requirements such as assigning IP address, subnet prefix, and DNS for each interface.
 
 ### Installation Steps
 

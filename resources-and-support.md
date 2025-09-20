@@ -2,7 +2,7 @@
 
 **Resources**
 
-After setting up dashboards and monitoring tools, explore these helpful resources to manage users, devices, alerts, and system recovery.
+After setting up the dashboard and monitoring tools, explore these helpful resources to manage users, devices, alerts, and system recovery.
 
 * **Authentication and Authorization (SSO)**\
   Integrate with identity providers like Okta and Azure AD to enable secure Single Sign-On (SSO). Learn more about [Authentication and Authorization](https://documentation.a10networks.com/SYM/Platform/Latest/html/Default.htm#Product/remote_auth_workflow.html%3FTocPath%3DAuthentication%2520and%2520Authorization%7CRemote%2520Authentication%2520and%2520Authorization%7C_____0).
