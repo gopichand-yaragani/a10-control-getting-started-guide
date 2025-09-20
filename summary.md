@@ -4,15 +4,9 @@
 
 This documentation structure is designed to be user-friendly and enable smooth access of the A10 Control platform. Since the primary audience consists of first-time network administrators with less technical background, this guide provides a simple, step-by-step flow to complete the installation and adaption process.
 
-1. Introduction
-2. Initial Setup
-3. Access and Login
-4. Monitoring and Dashboard
-5. Resources and Support
-
-Each section builds on the previous one, helping users follow along easily. Quick links help users to navigate efficiently, reduces frustration, and improves access to relevant information. This structure reduces complexity and makes the onboarding process more approachable.
-
 It is designed as a getting started guide for users who reach this documentation during installation and initial setup. The layout adheres to industry standard documentation practices, ensuring familiarity and ease of use.
+
+Quick links help users to navigate efficiently, reduces frustration, and improves access to relevant information. This structure reduces complexity and makes the onboarding process more approachable.
 
 #### Assumptions About the Audience
 
