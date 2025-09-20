@@ -1,8 +1,6 @@
 # Initial Setup
 
-## Initial Setup
-
-This section provides the key prerequisites and installation steps to assist you get started with the A10 Control platform hassle-free.
+This section provides the key prerequisites and installation steps to assist you get started with the A10 Control platform effectively.
 
 ### Prerequisites
 
@@ -35,15 +33,14 @@ A10 Control supports installation on large scale and small scale environments.
 
 ### Installation Steps
 
-Follow the steps to install the A10 Control platform and get started.
+Follow the steps to install the A10 Control platform:
 
-1. Access the Installer
-2. Log in to the [A10 Networks Support Portal](https://support.a10networks.com/).
-3. Enter the credentials.
-4. Navigate to the **Software Downloads and Documentation** page. \
+1. Log in to the [A10 Networks Support Portal](https://support.a10networks.com/).
+2. Enter the credentials.
+3. Navigate to the **Software Downloads and Documentation** page. \
    &#xNAN;_&#x53;uggested Screenshot: Software Downloads and Documentation page_
-5. Under the **Software** tab, locate the **A10 Control** section.
-6. Download the A10 Control ISO, OVA, or QCOW2 installer file as required.
-7. Run the Installer file and follow the on-screen instructions.&#x20;
-8. Choose the default settings unless the custom configuration deployment is required.
-9. Launch the A10 Control application and access the dashboard.
+4. Under the **Software** tab, locate the **A10 Control** section.
+5. Download the required A10 Control ISO, OVA, or QCOW2 installer file.
+6. Run the Installer file and follow the on-screen instructions.
+7. Choose the default settings unless the custom configuration deployment is required.
+8. Launch the A10 Control application and access the dashboard.
