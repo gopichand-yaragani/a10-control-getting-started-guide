@@ -4,7 +4,7 @@
 
 Monitoring helps users track performance, manage alerts, and monitor activities across the A10 Control platform.
 
-### Dashboard
+### Dashboards
 
 The dashboard displays key information like network status, certificate health, microservices activity, CPU, memory, and storage usage.
 
