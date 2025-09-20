@@ -1,6 +1,4 @@
-# A10 Control Getting Started Guide
-
-## Table of contents
+# Getting Started Guide
 
 * [Introduction](https://a10networks.gitbook.io/gopichand-a10control-getting-started/introduction)
 * [Initial Setup](https://a10networks.gitbook.io/gopichand-a10control-getting-started/initial-setup)
