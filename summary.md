@@ -23,11 +23,9 @@ A simple step-by-step approach reduces complexity and enhances clarity that help
 
 #### Challenges faced
 
-* Simplifying technical content without losing important context.
-* Balancing clarity with enough depth for new users.
-* Ensuring a smooth user experience across multiple levels of headings for improved navigation, accessibility and better user experience.
+Balancing simplicity and completeness to provide enough information for new users without excessive data.
 
 #### Improvements
 
-* Improve sidebar navigation with expand all functionality and contextual links to help users jump between related topics without losing their place.
-* Glossary tab is not operational and unable to search for acronyms and technical terms, which would reduce friction for non-technical readers.
+I would improve the getting started guide by adding a glossary, frequently asked questions, and quick troubleshooting steps to enhance the overall documentation experience.
+
