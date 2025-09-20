@@ -4,7 +4,7 @@
 
 This documentation structure was selected to ensure the ease of use and reduce the complexity by breaking down the installation process into clear and concise steps. I preferred simple steps and maintained consistency to ensure the guide is approachable for the first-time network administrators.
 
-Step-by-step approach reduces complexity and enhances clarity that helps users complete installation and setup without confusion.
+A simple step-by-step approach reduces complexity and enhances clarity that helps users complete installation and setup without confusion.
 
 #### Assumptions about the audience
 
