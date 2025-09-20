@@ -1,6 +1,6 @@
 # Table of contents
 
-* [A10 Control Getting Started Guide](README.md)
+* [Getting Started Guide](README.md)
 * [Introduction](introduction.md)
 * [Initial Setup](initial-setup.md)
 * [Access and Login](access-and-login.md)
