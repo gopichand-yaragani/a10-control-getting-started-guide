@@ -12,7 +12,7 @@ A simple step-by-step approach reduces complexity and enhances clarity that help
 * First-time network administrators are the primary audience, so simplicity and clarity are important to follow in the documentation.
 * Entry-level users expect the technical documentation to be clear, concise, and easy to consume.
 
-### Style and Writing Preferences
+### Style and writing preferences
 
 * The choice of words and style prioritize meeting style guide standards of simplicity, clarity, and consistency.
 * This approach ensures the documentation is approachable and supports a better product installation experience.
