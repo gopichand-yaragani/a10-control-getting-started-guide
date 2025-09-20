@@ -1,6 +1,6 @@
 # Resources and Support
 
-**Resources**
+### Resources
 
 After setting up the dashboard and monitoring tools, explore these helpful resources to manage users, devices, alerts, and system recovery.
 
@@ -18,7 +18,7 @@ After setting up the dashboard and monitoring tools, explore these helpful resou
 * **Showtech Tool**\
   Run the Showtech tool to collect diagnostic data when reporting issues to support. Learn more about the [Showtech Tool](https://documentation.a10networks.com/SYM/Platform/Latest/html/Default.htm#Product/Troubleshooting_Guide/TS_ShowTech.htm%3FTocPath%3DShowtech%2520Tool%7C_____0).
 
-#### Support
+### Support
 
 * **Technical Support Portal**\
   Access the [A10 Support Portal](https://support.a10networks.com/) for help articles, ticket submission, and technical assistance.

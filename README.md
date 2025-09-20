@@ -1,5 +1,7 @@
 # Getting Started Guide
 
+### Table of Contents <a href="#top" id="top"></a>
+
 * [Introduction](https://a10networks.gitbook.io/gopichand-a10control-getting-started/introduction)
 * [Initial Setup](https://a10networks.gitbook.io/gopichand-a10control-getting-started/initial-setup)
 * [Access and Login](https://a10networks.gitbook.io/gopichand-a10control-getting-started/access-and-login)
